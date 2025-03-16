@@ -22,6 +22,9 @@ python train.py --GPU_id 0
 ```
 
 For testing
+
+Due to data size limitations, the datasets for pMTnet_train, VDJDB, McPAS-TCR, 10X, PIRD, and COVID are stored in Google Drive. You can download them from the following link:[ Google Drive](https://drive.google.com/drive/folders/1oYBUhJaDTzTAWOX4LTXv6skzY84lf-xK?usp=sharing).
+
 --------
 ```sh
 #example
